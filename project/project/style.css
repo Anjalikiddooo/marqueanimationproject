@@ -1,0 +1,46 @@
+.ins:visited{
+
+color:green
+
+}
+
+
+
+.btn{
+
+
+   background: purple; 
+}
+
+.btn:hover{
+
+
+    background: rgb(0, 128, 0); 
+ }
+
+
+
+
+
+ #pp:hover{
+
+    background: rgb(255, 145, 0);
+    
+     }
+
+
+     h1:hover{
+
+color:orangered
+
+     }
+
+     p{
+
+        color:orange
+     }
+
+h1{
+
+    color:green
+}
